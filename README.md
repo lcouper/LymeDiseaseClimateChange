@@ -49,7 +49,9 @@ Date accessed: November, 2019.
 9. File: RCP85_ForecastedClimate&LandCover.csv.
 Forecasted climate and land cover variables under upper climate change scenario (RCP 8.5). See above. 
 
-
-
+10. File: CountyPopProjections2100.csv
+Description: Projected county-level population sizes
+Source: Hauer et al. 2019. Population projections for US counties by age, sex, and race controlled to shared socioeconomic pathway. Nature.
+Date accessed: March, 2020.
 
 
