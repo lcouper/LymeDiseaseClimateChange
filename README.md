@@ -1,6 +1,6 @@
 # Lyme Disease & Climate Change Dataset Descriptions
 
-This repository contains all the datasets used in 'Climate warming expected to drive large and uncertain increases in Lyme disease incidence in the Northern US'
+This repository contains all the datasets used in 'Impact of prior and projected climate change on US Lyme disease incidence'
 
 A brief description of the datasets, including when and where they were accessed, is provided below.
 
